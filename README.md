@@ -8,7 +8,7 @@ the builtin awkward command `Ctrl-\ + Ctrl-n`.
 # Why?
 
 There is no big reason really. You can quickly do this on your own in your own config.
-I just want to use this as my first taste in making custom neovim extension.
+I just want to use this as my first taste in making custom neovim plugin.
 
 # Installation
 
